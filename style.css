@@ -4,7 +4,7 @@
 }
 .main{
     width:100%;
-    background-image:url(forest.jpg);
+    background-image:url(forest.jpg);     /*paste your background url*/
     background-position: center;
     background-size: cover;
     height:100vh;
@@ -59,7 +59,7 @@ ul li a:hover{
 .search{
     width: 330px;
     float: left;
-    margin-left: 1000px;  /*check*/
+    margin-left: 1000px;  
     margin-top: 0px;
 }
 .find{
