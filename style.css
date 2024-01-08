@@ -4,10 +4,12 @@
 }
 .main{
     width:100%;
-    background-image:url(forest.jpg);     /*paste your background url*/
+    background-image:url(forest.jpg); /*paste your image url*/
     background-position: center;
     background-size: cover;
     height:100vh;
+    margin-top: -101px;
+   
 }
 .navbar{
     width: 1200px;
@@ -96,7 +98,7 @@ ul li a:hover{
     outline: none;
 }
 .content{
-    color: rgb(20, 20, 17);
+    color: rgb(195, 195, 82);
     width: 1200px;
     
 }
@@ -148,7 +150,7 @@ ul li a:hover{
     border-radius:10px;
     border-color: white;
     padding: 25px;
-    margin-top: 20%;
+    margin-top: 15%;
     background-color: rgb(241, 200, 183);
 
 
